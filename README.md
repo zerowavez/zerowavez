@@ -14,7 +14,9 @@ you found it! the place where i store all my code (or at least the ones i want y
 
 [![My Skills](https://skillicons.dev/icons?i=rust,linux,godot,obsidian)](https://skillicons.dev)
 
----
+## <div>
+   ![snk](https://github.com/zerowavez/zerowavez/blob/output/github-contribution-grid-snake-dark.svg)
+ </div>
 
 
 
