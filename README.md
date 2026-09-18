@@ -1,40 +1,22 @@
-# 👋 Olá! Bem-vindo ao meu perfil do GitHub
+# welcome!
 
-Aqui você encontra um resumo sobre minhas habilidades, projetos e as tecnologias com as quais trabalho no dia a dia.
+you found it! the place where i store all my code (or at least the ones i want you to see...)
 
----
+## i have learned the following languages during my academic formation:
 
-## 🛠️ Tecnologias e Linguagens
+[![My Skills](https://skillicons.dev/icons?i=kotlin,cs,react,js,ts,html,css)](https://skillicons.dev)
 
-Aqui estão as principais ferramentas e linguagens que utilizo nos meus projetos:
+## and the following tools:
 
-###  mobile & Backend
-- ![Kotlin](https://shields.io) **Kotlin**
+[![My Skills](https://skillicons.dev/icons?i=vscode,idea,androidstudio,figma,mysql)](https://skillicons.dev)
 
-### 🏢 Enterprise & Desktop
-- ![C#](https://shields.io) **C#**
+## other tecnologies i looooooooooooooooooove:
 
-### 🌐 Desenvolvimento Web Front-end
-- ![React](https://shields.io) **React**
-- ![TypeScript](https://shields.io) **TypeScript**
-- ![HTML5](https://shields.io) **HTML5**
-- ![CSS3](https://shields.io) **CSS3**
-
-### 🦀 Sistemas & Performance
-- ![Rust](https://shields.io) **Rust**
-
-### 🎮 Desenvolvimento de Jogos
-- ![GDScript (Godot)](https://shields.io) **GDScript**
+[![My Skills](https://skillicons.dev/icons?i=rust,linux,godot,obsidian)](https://skillicons.dev)
 
 ---
 
-## 📊 Estatísticas do GitHub
 
-<!-- ⚠️ ATENÇÃO: Substitua 'seu-usuario' pelo seu nome de usuário real do GitHub abaixo -->
-![Estatísticas do GitHub](https://vercel.app)
-![Linguagens mais usadas](https://vercel.app)
-
----
 
 <!---
 zerowavez/zerowavez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
